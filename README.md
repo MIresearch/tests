@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+<br><br>
+<head>
+ <!-- Default Statcounter code for Global-Opportunity-Index
+https://miresearch.github.io/Global-Opportunity-Index/ -->
+<script type="text/javascript">
+var sc_project=12339751; 
+var sc_invisible=1; 
+var sc_security="c196880c"; 
+var scJsHost = "https://";
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/12339751/0/c196880c/0/"
+alt="Web Analytics"></a></div></noscript>
+<!-- End of Statcounter Code -->
+ 
+<meta name="twitter:title" content="Global Opportunity Index">
+<meta name="twitter:image" content="https://claudelopezcom.ipage.com/claudelopez/GOI.jpg">
+<meta name="twitter:card" content="summary_large_image">
 
-You can use the [editor on GitHub](https://github.com/MIresearch/tests/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<meta property="og:title" content="Global Opportunity Index">
+<meta property="og:image" content="https://claudelopezcom.ipage.com/claudelopez/GOI.jpg">
+<meta property="og:image:url" content="https://claudelopezcom.ipage.com/claudelopez/GOI.jpg">
+<meta property="og:image:secure_url" content="https://claudelopezcom.ipage.com/claudelopez/GOI.jpg">
+<meta property="og:url" content="https://miresearch.github.io/Global-Opportunity-Index/">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ </head>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<H1><b>Milken Institute Research Department </b></H1>  <Hr>
+<H2><b>Global Opportunity Index -- GOI</b></H2>  <Hr>
 
-```markdown
-Syntax highlighted code block
+The GOI considers economic and financial factors that influence foreign investment activities as well as key business, legal, and regulatory policies that governments can modify to support and often drive investments. Overall, it tracks countries' performances using five categories:
+<ul>
+ <li> <b>Business Perception </b> measures explicit and implicit costs associated with business operations, such as tax burden, transparency, etc. </li>
+ <li> <b>Financial Services</b> measures the size and access to financial services in a country by looking at the country’s financial infrastructure and access to credit. </li>
+ <li> <b>Institutional Framework</b> measures the extent to which a country’s institutions provide a supportive framework for businesses.</li>
+ <li> <b>Economic Fundamentals</b> indicates the current economic strength of a country vis-à-vis the global economic outlook. The assessment focuses on the country’s macroeconomic performance, trade openness, quality and structure of the labor force, and modern infrastructure. </li>
+ <li> <b>International Standards and Policy</b> reflects the extent to which a country’s institutions, policies, and legal system facilitate international integration by following international standards. </li></ul>
 
-# Header 1
-## Header 2
-### Header 3
+<a href="https://miresearch.github.io/Global-Opportunity-Index/Global%20Opportunity%20Index%202020%20_Variables.pdf" target="_blank"> Link to the list of the variables. </a><br>
+<a href="https://claudelopez.com/ifm-team-mi/" target="_blank"> Link to the GOI reports and related work. </a>
 
-- Bulleted
-- List
+<a href=" https://miresearch.github.io/About/" target="_blank"> <b>Back to MI Research's main github page</b>  </a>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MIresearch/tests/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<Br>
+  <H2>Interactive Map</H2> 
+  <iframe src="https://public.tableau.com/views/goi1/Dashboard1?:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="650" frameborder="0"></iframe>
+  <br>
+  <H2>Interactive Ranking</H2> 
+  <iframe src="https://public.tableau.com/views/goi1/Dashboard3?:display_count=y&publish=yes&:origin=viz_share_link" width="100%" height="650" frameborder="0"></iframe>
+  
+<br>
+<br>
+<Bh>
